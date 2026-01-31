@@ -1,0 +1,7 @@
+batch_size: 32
+embedding_config:
+    em_level: sentence
+    pretrained_model_name: distilbert-base-uncased
+    text_level: question
+weighted_sampler: True
+use_demographics: False

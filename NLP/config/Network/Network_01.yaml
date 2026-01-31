@@ -1,0 +1,5 @@
+hidden_dim:
+- 6912
+- 3072
+latent_dim: 1536
+model: MLPEncoderDecoder
